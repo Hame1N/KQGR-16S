@@ -1,7 +1,7 @@
 # KQGR-16S
 R scripts for KQGR 16S data
 
-
+![image](https://github.com/Hame1N/KQGR-16S/blob/main/sampling%20site.png)
 
 
 Raw scripts cited from blow:
